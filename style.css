@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+    ;
+}
+h1{
+    font-size:50px;
+    color:rgb(156, 61, 77);
+    background-color: rgb(224, 153, 171);
+    text-align: center;
+}
+.sub1{
+    font-size: 25px;
+    color: rgb(214, 85, 124);
+    text-align: center;
+    background-color: rgb(224, 153, 171);
+}
+#sub2{
+    font-size: 25px; ;
+    color: rgb(214, 85, 124);
+     text-align: center;
+    background-color: rgb(224, 153, 171);
+}
+.paragrafo{
+    font-size: 16px;
+    color:rgb(71, 41, 41);
+     text-align: center;
+
+
+}
+body{
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 204, 212), rgb(255, 180, 193));
+}
+.foto{
+    border-radius:20%;
+    border:solid rgb(92, 19, 31);
+    display: flex;
+    margin: auto;
+   
+}
+ul{
+    text-align: center;
+}
+.lista2{
+    text-align: center;
+}
+.porjeto{
+    color: rgb(158, 66, 82);
+}
+.sub{
+    font-size: 25px;
+    color: rgb(214, 85, 124);
+    text-align: center;}
