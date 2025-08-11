@@ -1,94 +1,129 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box
-    ;
-}
-h1{
-    font-size:50px;
-    color:rgb(156, 61, 77);
-    background-color: rgb(224, 153, 171);
+.nome{
+    background: linear-gradient(to right,rgb(255, 218, 224),rgb(255, 255, 255), rgb(252, 215, 230));
+    height: 100px;
+    font-size: 80px;
     text-align: center;
+    color: rgb(136, 53, 71);
 }
-.sub1{
-    font-size: 25px;
-    color: rgb(214, 85, 124);
-    text-align: center;
-    background-color: rgb(224, 153, 171);
-}
-#sub2{
-    font-size: 25px; ;
-    color: rgb(214, 85, 124);
-     text-align: center;
-    background-color: rgb(224, 153, 171);
-}
-.paragrafo{
-    font-size: 16px;
-    color:rgb(71, 41, 41);
-     text-align: center;
 
-
-}
 body{
-    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 204, 212), rgb(255, 180, 193));
-    margin-left: 500px;
-    margin-right: 500px;
-}
-.foto{
-    border-radius:20%;
-    border:solid rgb(92, 19, 31);
-    display: flex;
-    margin: auto;
+    background-color: pink;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-color: white;
+    padding: 20px;
+    border-left: 150px solid white;
+    border-right: 150px solid white;
+    box-shadow: 0 0 0 100px white;
    
-   
-}
-ul{
-    text-align: center;
-}
-.lista2{
-    text-align: center;
-}
-.porjeto{
-    color: rgb(158, 66, 82);
-}
-.sub{
-    font-size: 25px;
-    color: rgb(214, 85, 124);
-    text-align: center;}
+} 
 
-.oi{
-    font-size: 25px;
-    color:rgb(214, 85, 124);
-    background-color:rgb(224, 153, 171);
-    text-align: center;
+.link{
+    font-size: 30px;
+    color: rgb(134, 39, 95);
+    align-items: center;
+    margin-left: 30px;
+    text-decoration: none;
+    text-decoration-line:underline;
+    text-decoration-style: wavy ;
+    text-decoration-thickness:2px;
+    padding: 5px 10px;
+    background: white;
+    border-radius: 15%;
 }
-.Contato{
-    font-size: 25px;
-    text-align: center;
+
+.foto{
+    border-radius: 20%;  
 }
-a{
-    color: rgb(150, 68, 82);
+
+.photo{
+    text-align:center;
 }
-.comentario{
+
+.sub1{
     text-align: center;
-}.text{
-    width: 540px;
-    height:170px ;
-    font-size: 25px;
+    font-size: 35px;
+    margin:5px
+
+}
+
+.sub2{
+    background: linear-gradient(to right,rgb(255, 218, 224),rgb(255, 255, 255), rgb(252, 215, 230));
+    height: 70px;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(136, 53, 71);
+}
+
+.sub3{
+    text-align: center;
+    font-size: 30px;
+    margin:5px
+
+}
+
+.sub4{
+    text-align: center;
+    font-size: 30px;
+    margin:5px
+
+}
+
+.sub5{
+    text-align: center;
+    font-size: 35px;
+    margin:5px;
+    padding: 5px 8px;
+
+
 }
 .boxcontato{
     text-align: center;
 }
-.enviar{
+
+.sub6{
     height: 40px;
+    width: 170px;
+    border-radius: 10%;
+    border-color: pink;
+}
+
+.sub7{
+    width: 540px;
+    height:170px ;
+    font-size: 25px;
+}
+
+.sub8{
+     height: 40px;
     width: 100px;
     background-image: linear-gradient(to right,rgb(255, 176, 188), rgb(255, 217, 224));
     border-radius: 10%;
     border-color: pink;
 }
-header{
-    background-color: white;
-    height: 40px;
-    opacity: 50%;
+
+.sub11{
     text-align: center;
+}
+
+.sub12{
+    border-radius: 30%;
+    width: 80px;
+    height: 80px;
+
+}
+
+.sub13{
+    border-radius: 20%;
+    width: 80px;
+    height: 80px;
+
+}
+
+.sub14{
+    border-radius: 20%;
+    width: 80px;
+    height: 80px;
+
 }
